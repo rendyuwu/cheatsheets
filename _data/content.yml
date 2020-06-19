@@ -1,10 +1,10 @@
 home:
-  title: "Rico's cheatsheets"
+  title: "Clan486 cheatsheets"
   tagline: |
-    Hey! I'm <a href='https://ricostacruz.com'>@rstacruz</a> and this is a modest collection of cheatsheets I've written.
+    Hey! We <a href='https://clan486.or.id'>@clan486</a> and this is a modest collection of cheatsheets We've written.
 
 top_nav:
-  title: Devhints.io
+  title: CHEATSHEETS
   edit: Edit
   edit_on_github: Edit this page on GitHub
 
@@ -19,7 +19,7 @@ social_list:
 
 related_posts_callout:
   description: Over SIZE curated cheatsheets, by developers for developers.
-  link: Devhints home
+  link: Clan486 home
 
 related_posts_group:
   top: Top cheatsheets
@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: cheat.clan486.or.id
 
 comments_area:
   suffix: for this cheatsheet.
