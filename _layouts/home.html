@@ -14,7 +14,7 @@ type: home
       {% if page.category == category %}
         <a href="{{base}}{{ page.url }}">
           <span class='title'>{{ page.title }}</span>
-          <span class='date'>{{ page.url | remove: '.html' | remove: '/' }}</span>
+          <span class='date'>{{ page.url | remove: '/' }}</span>
         </a>
       {% endif %}
     {% endfor %}
